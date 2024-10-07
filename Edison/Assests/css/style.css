@@ -458,6 +458,7 @@ header .nav-item:after {
 }
 
 .feedback .card img {
+	width: 100%;
 	float: right;
 	border-radius: 50%;
 	border: 5px solid #fff;
